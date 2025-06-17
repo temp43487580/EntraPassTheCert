@@ -1,1 +1,4 @@
 asyauth
+aardwolf
+termcolor
+xmltodict
